@@ -21,6 +21,7 @@ a{
     color: white;
     border-radius: 5px;
 }
+
 .stay1{
     float:right;
     padding-top: 100px;
@@ -39,8 +40,6 @@ a{
     margin-right: 200px;
     
 }
-/*section two*/
-
 .stay3{
     text-align: center;
     font-size:40px;
@@ -48,8 +47,8 @@ a{
     font-family: Arial, Helvetica, sans-serif;
 }
 .stay4{
-    width: 40%;
-    margin: 5% 5%;
+    width: 20%;
+    margin: 5%;
     padding-left: 30px;
     padding-right: 20px;
     padding-bottom: 20px;
@@ -61,16 +60,29 @@ a{
     font-size:40px;
     font-family:Arial, Helvetica, sans-serif;
 }
+.stay6{
+    float:right;
+    
+    padding-left: 150px;
+    
+}
+.stay7{
+    padding-left: 50px;
+    
+}
+.bonus1{
+    margin-bottom: 100px;
+}
+.bonus2{
+    padding-top: 100px;
+}
 #one{
     background-color: peachpuff;   
 }
 #one h1{
     text-align: center;
 }
-.hablu{
-    padding-left: 80px;
-    
-}
+
 
 #two{
     background-color: palegoldenrod;
@@ -86,15 +98,12 @@ a{
 #three h1{
     text-align: center;
 }
-/*section three*/
-.half-width h1{
-    font-size: 40px;
-    font-weight: 400px;
+
+.uddin{
+    padding-top: 130px;
+    
+}
+.uddin1{
+    padding-left: 200px;
 }
 
-.razib{
-    float:right;
-    
-    padding-left: 150px;
-    
-}
