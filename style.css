@@ -29,6 +29,8 @@ a{
     float:right;
     padding-top: 100px;
     padding-left: 150px;
+    padding-right: 40px;
+    
     
 }
 .stay1 h1{
@@ -37,6 +39,7 @@ a{
     font-weight: 400px;
     border-left: 4px solid rgb(219, 69, 69);
     padding-left: 10px;
+    
 }
 .stay2 img{
     float:right;
@@ -88,6 +91,9 @@ a{
 }
 .bonus5{
     font-size: 20px;
+}
+.bonus6{
+    text-align: justify;
 }
 #one{
     background-color: peachpuff;   
