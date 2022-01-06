@@ -52,8 +52,41 @@ footer{
 /*section two*/
 .two{
     text-align: center;
-    font-size: 40px;
-    font-weight: 400px;
+   
+}
+#one{
+    background-color: peachpuff;
+    padding: 10px;
+   
+}
+#one h1{
+    text-align: center;
+}
+.hablu{
+    padding-left: 80px;
+    
+}
+
+#two{
+    background-color: palegoldenrod;
+    
+
+    
+}
+#two h1{
+    text-align: center;
+}
+#three{
+    background-color: paleturquoise;
+    
+
+    
+}
+#three h1{
+    text-align: center;
+}
+number{
+    margin: 10px;
 }
 /*section five*/
 .xyz{
